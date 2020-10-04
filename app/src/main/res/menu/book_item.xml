@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_item"
+            android:icon="@drawable/home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/authors_item"
+            android:icon="@drawable/ic_baseline_create_24"
+            android:title="Authors" />
+        <item
+            android:id="@+id/novels_item"
+            android:icon="@drawable/book_24"
+            android:title="Novels " />
+        <item
+            android:id="@+id/thriller_item"
+            android:icon="@drawable/home_24"
+            android:title="Thriller " />
+        <item
+            android:id="@+id/contemporary_item"
+            android:icon="@drawable/book_24"
+            android:title="Contemporary " />
+
+    </group>
+    <item android:title="Company" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="CONNECT" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/ic_baseline_location_city_24"
+            android:title="about us" />
+
+    </group>
+</menu>
+

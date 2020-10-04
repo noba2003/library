@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="width_card">@dimen/_120sdp</dimen>
+    <dimen name="heigt_card">@dimen/_65sdp</dimen>
+
+    <dimen name="heigt_img">@dimen/_60sdp</dimen>
+    <dimen name="width_img">@dimen/_50sdp</dimen>
+    <dimen name="font_small">@dimen/_5ssp</dimen>
+    <dimen name="font_big">@dimen/_6ssp</dimen>
+
+</resources>
